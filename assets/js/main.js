@@ -272,7 +272,7 @@
   }
   window.addEventListener("load", function () {
     navmenuScrollspy();
-    calculateExperience(4, 2022);
+    calculateExperience(9, 2022);
   });
   document.addEventListener("scroll", navmenuScrollspy);
 
